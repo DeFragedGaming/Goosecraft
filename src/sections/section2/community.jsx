@@ -2,6 +2,9 @@ import './community.css';
 
 import { BsChevronDoubleRight } from 'react-icons/bs';
 
+
+
+    
 function SectionTwo() {
   return (
     <div className='section s2' id='community'>
@@ -11,11 +14,10 @@ function SectionTwo() {
         <div className='card' style={{ '--k': 1 }}>
        
           <p>
-            Call of Duty <br />
+            MineCraft Server Information <br />
             <i>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus
-              provident obcaecati quam quisquam placeat officia laborum alias
-              pariatur voluptate nostrum.
+            
+
             </i>
           </p>
         </div>

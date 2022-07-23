@@ -1,9 +1,12 @@
 import './style.css';
 
+
 import { BiMenuAltRight } from 'react-icons/bi';
 import { AiOutlineClose } from 'react-icons/ai';
 import SectionOne from "./sections/section1/Home";
 import SectionTwo from "./sections/section2/community";
+
+
 
 
 function Webcontent(){

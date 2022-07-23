@@ -1,5 +1,4 @@
 import ReactDOM from "react-dom";
-
 import Webcontent from "./App";
 
 ReactDOM.render(<Webcontent />, document.getElementById("root"));
